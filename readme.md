@@ -114,7 +114,7 @@ git@github.com:eduard0bet/eduardo-betancourt-frontend.git
 ```
 a .PEM file is attached in this email so you can clone and check.
 
-## THIS UPLOAD, TEST, AND RUNNING ENVIROMENS I DO IN 4 Hours as it is, so this was the most I can achieve in that period of time. with more time we can create a trunk based project, with a complete CI/CD and more efficient Security between Instances and AWS environment.
+## THIS UPLOAD, TEST, AND RUNNING ENVIROMENS I MADE IT IN 4 Hours as it is, so this was the most I can achieve in that period of time. with more time we can create a trunk based project, with a complete CI/CD and more efficient Security between Instances and AWS environment.
 
 ## Done
 Our backend and frontend is running with no issue on 
